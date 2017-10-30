@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--nom de la pause test2-->
+<!--type de la pause salut-->
+<salut value="0.8" />
+<root>
+  <Position x="9.576322" y="29.48728" z="0.6878529" />
+  <LocalPosition x="-0.1652571" y="28.75475" z="0.6878529" />
+  <Rotation x="0" y="0" z="0" w="1" />
+  <LocalRotation x="0" y="0" z="0" w="1" />
+</root>
+<spine>
+  <Position x="9.569676" y="29.56952" z="0.6609069" />
+  <LocalPosition x="-0.1719031" y="28.83699" z="0.6609069" />
+  <Rotation x="0" y="0" z="0" w="1" />
+  <LocalRotation x="0" y="0" z="0" w="1" />
+</spine>
+<shoulderCenter>
+  <Position x="9.563069" y="29.90905" z="0.8154582" />
+  <LocalPosition x="-0.1785101" y="29.17651" z="0.8154582" />
+  <Rotation x="0" y="0" z="0" w="1" />
+  <LocalRotation x="0" y="0" z="0" w="1" />
+</shoulderCenter>
+<head>
+  <Position x="9.57136" y="30.05208" z="0.9366111" />
+  <LocalPosition x="-0.1702198" y="29.31955" z="0.9366111" />
+  <Rotation x="0" y="0" z="0" w="1" />
+  <LocalRotation x="0" y="0" z="0" w="1" />
+</head>
+<shoulderLeft>
+  <Position x="9.408324" y="29.79287" z="0.782045" />
+  <LocalPosition x="-0.333255" y="29.06034" z="0.782045" />
+  <Rotation x="0" y="0" z="0" w="1" />
+  <LocalRotation x="0" y="0" z="0" w="1" />
+</shoulderLeft>
+<elbowLeft>
+  <Position x="9.365064" y="29.5437" z="0.7051275" />
+  <LocalPosition x="-0.3765158" y="28.81116" z="0.7051275" />
+  <Rotation x="0" y="0" z="0" w="1" />
+  <LocalRotation x="0" y="0" z="0" w="1" />
+</elbowLeft>
+<wristLeft>
+  <Position x="9.373938" y="29.27203" z="0.7013003" />
+  <LocalPosition x="-0.3676419" y="28.53949" z="0.7013003" />
+  <Rotation x="0" y="0" z="0" w="1" />
+  <LocalRotation x="0" y="0" z="0" w="1" />
+</wristLeft>
+<handLeft>
+  <Position x="9.378963" y="29.18023" z="0.6908075" />
+  <LocalPosition x="-0.3626169" y="28.44769" z="0.6908075" />
+  <Rotation x="0" y="0" z="0" w="1" />
+  <LocalRotation x="0" y="0" z="0" w="1" />
+</handLeft>
+<shoulderRight>
+  <Position x="9.734081" y="29.82494" z="0.7627763" />
+  <LocalPosition x="-0.007498194" y="29.09241" z="0.7627763" />
+  <Rotation x="0" y="0" z="0" w="1" />
+  <LocalRotation x="0" y="0" z="0" w="1" />
+</shoulderRight>
+<elbowRight>
+  <Position x="9.804018" y="29.59398" z="0.7788858" />
+  <LocalPosition x="0.06243875" y="28.86144" z="0.7788858" />
+  <Rotation x="0" y="0" z="0" w="1" />
+  <LocalRotation x="0" y="0" z="0" w="1" />
+</elbowRight>
+<wristRight>
+  <Position x="9.686339" y="29.3954" z="0.9831378" />
+  <LocalPosition x="-0.05523935" y="28.66286" z="0.9831378" />
+  <Rotation x="0" y="0" z="0" w="1" />
+  <LocalRotation x="0" y="0" z="0" w="1" />
+</wristRight>
+<handRight>
+  <Position x="9.669552" y="29.37638" z="1.013196" />
+  <LocalPosition x="-0.07202725" y="28.64385" z="1.013196" />
+  <Rotation x="0" y="0" z="0" w="1" />
+  <LocalRotation x="0" y="0" z="0" w="1" />
+</handRight>
+<hipLeft>
+  <Position x="9.508063" y="29.41044" z="0.6750603" />
+  <LocalPosition x="-0.2335153" y="28.67791" z="0.6750603" />
+  <Rotation x="0" y="0" z="0" w="1" 

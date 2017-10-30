@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--nom de la pause FileName6-->
+<!--type de la pause rien-->
+<rien value="1" />
+<root>
+  <Position x="0" y="28" z="13.84096" />
+  <LocalPosition x="0" y="28" z="2" />
+  <Rotation x="0" y="0" z="0" w="1" />
+  <LocalRotation x="0" y="0" z="0" w="1" />
+</root>
+<spine>
+  <Position x="0" y="28" z="13.84096" />
+  <LocalPosition x="0" y="28" z="2" />
+  <Rotation x="0" y="0" z="0" w="1" />
+  <LocalRotation x="0" y="0" z="0" w="1" />
+</spine>
+<shoulderCenter>
+  <Position x="0" y="28" z="13.84096" />
+  <LocalPosition x="0" y="28" z="2" />
+  <Rotation x="0" y="0" z="0" w="1" />
+  <LocalRotation x="0" y="0" z="0" w="1" />
+</shoulderCenter>
+<head>
+  <Position x="0" y="28" z="13.84096" />
+  <LocalPosition x="0" y="28" z="2" />
+  <Rotation x="0" y="0" z="0" w="1" />
+  <LocalRotation x="0" y="0" z="0" w="1" />
+</head>
+<shoulderLeft>
+  <Position x="0" y="28" z="13.84096" />
+  <LocalPosition x="0" y="28" z="2" />
+  <Rotation x="0" y="0" z="0" w="1" />
+  <LocalRotation x="0" y="0" z="0" w="1" />
+</shoulderLeft>
+<elbowLeft>
+  <Position x="0" y="28" z="13.84096" />
+  <LocalPosition x="0" y="28" z="2" />
+  <Rotation x="0" y="0" z="0" w="1" />
+  <LocalRotation x="0" y="0" z="0" w="1" />
+</elbowLeft>
+<wristLeft>
+  <Position x="0" y="28" z="13.84096" />
+  <LocalPosition x="0" y="28" z="2" />
+  <Rotation x="0" y="0" z="0" w="1" />
+  <LocalRotation x="0" y="0" z="0" w="1" />
+</wristLeft>
+<handLeft >
+  <Position x="0" y="28" z="13.84096" />
+  <LocalPosition x="0" y="28" z="2" />
+  <Rotation x="0" y="0" z="0" w="1" />
+  <LocalRotation x="0" y="0" z="0" w="1" />
+</handLeft >
+<shoulderRight>
+  <Position x="0" y="28" z="13.84096" />
+  <LocalPosition x="0" y="28" z="2" />
+  <Rotation x="0" y="0" z="0" w="1" />
+  <LocalRotation x="0" y="0" z="0" w="1" />
+</shoulderRight>
+<elbowRight>
+  <Position x="0" y="28" z="13.84096" />
+  <LocalPosition x="0" y="28" z="2" />
+  <Rotation x="0" y="0" z="0" w="1" />
+  <LocalRotation x="0" y="0" z
