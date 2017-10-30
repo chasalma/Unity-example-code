@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--nom de la pause FileNametype de la pause klj-->
+<GameObject Name="root">
+  <Position x="0" y="28" z="0.6824803" />
+  <LocalPosition x="0" y="28" z="2" />
+</GameObject>
+<GameObject Name="spine">
+  <Position x="0" y="28" z="0.6824803" />
+  <LocalPosition x="0" y="28" z="2" />
+</GameObject>
+<GameObject Name="shoulderCenter">
+  <Position x="0" y="28" z="0.6824803" />
+  <LocalPosition x="0" y="28" z="2" />
+</GameObject>
+<GameObject Name="head">
+  <Position x="0" y="28" z="0.6824803" />
+  <LocalPosition x="0" y="28" z="2" />
+</GameObject>
+<GameObject Name="shoulderLeft">
+  <Position x="0" y="28" z="0.6824803" />
+  <LocalPosition x="0" y="28" z="2" />
+</GameObject>
+<GameObject Name="elbowLeft">
+  <Position x="0" y="28" z="0.6824803" />
+  <LocalPosition x="0" y="28" z="2" />
+</GameObject>
+<GameObject Name="wristLeft">
+  <Position x="0" y="28" z="0.6824803" />
+  <LocalPosition x="0" y="28" z="2" />
+</GameObject>
+<GameObject Name="
